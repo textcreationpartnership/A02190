@@ -35,11 +35,15 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Markes and no markes, of the Kingdome of Heauen: or, A treatise of things neccessary, vnnecessary, t
+
+1. TO THE RIGHT worthy and VVorſhipfull Maſter ROBERT LEVYSTONE, Gentleman of his Majeſties Bedchamber, all honour in this life, and Eternall glory in the life to come.
+
 #####Body#####
-Markes and no markes, of the Kingdome of Heauen: or, A treatise of things neccessary, vnnecessary, t
+
+1. MARKES AND NO MARKES OF THE KINGDOME OF HEAVEN.
+
 #####Back#####
-Markes and no markes, of the Kingdome of Heauen: or, A treatise of things neccessary, vnnecessary, t
+Imprimatur modo intra duos Menſes .Rob. AuſtinMartij 22.1633.
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
